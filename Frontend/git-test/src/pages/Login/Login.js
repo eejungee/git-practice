@@ -47,5 +47,3 @@ export default function Login() {
     </div>
   );
 }
-
-// 주석 추가
